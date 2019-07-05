@@ -8,3 +8,5 @@ income. The legacy application takes as input txt or xml files that contain the 
 tax calculation is based on a complex algorithm provided by the Minnesota state. The application further produces
 graphical representations of the data in terms of bar and pie charts. Finally. the application produces respective
 output reports in txt or xml.
+
+Developers: Athanasios Batsilas, Giwrgos Papasteriadis
